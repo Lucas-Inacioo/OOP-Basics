@@ -21,16 +21,16 @@ Em `Lista1`, `Lista2`, `Lista3` e `Lista4` estão dispostas as implementações 
 
 Por fim, em `PDFs` são encontradas as listas de exercícios supracitadas.
 
-Em cada uma das seções você encontrará arquivos com os prefixos:
+Em cada uma das seções você encontrará arquivos/diretórios com os prefixos:
 - GUIDE
-- EXERCICE-{ExerciseNumber}
+- EXERCISE-{ExerciseNumber}
 - OPTIONAL
 
 Arquivos marcados com o prefixo `GUIDE` são arquivos markdown que fornecem instruções em texto sobre os exercícios daquela seção, servindo como fundamentação teórica.
 
-Arquivos marcados com o prefixo `EXERCISE-{ExerciseNumber}` são arquivos Java/markdown que fornecem a implementação ou resposta para o exercício de número `ExerciseNumber` da respectiva lista.
+Diretórios marcados com o prefixo `EXERCISE-{ExerciseNumber}` contêm arquivos Java/markdown que fornecem a implementação ou resposta para o exercício de número `ExerciseNumber` da respectiva lista.
 
-Por fim, arquivos marcados com o prefixo `OPTIONAL` são leituras opcionais em markdown, mas fortemente recomendadas, como um exemplo, na seção `Lista0` temos uma leitura opcional referente a qualidade de código e utilização de linters chamada `OPTIONAL-HowToMakeGoodCode`, que apesar de não ser algo obrigatório para sua aprovação em nenhuma disciplina, poderá ser de grande valor na sua vida profissional e na criação de códigos de alta qualidade.
+Por fim, arquivos marcados com o prefixo `OPTIONAL` são leituras opcionais em markdown, mas recomendadas, incluindo discussões que não são diretamente relacionadas aos exercícios, mas que podem ser úteis para o desenvolvimento de habilidades de programação e resolução de problemas.
 
 # Créditos
 As listas de exercícios utilizadas neste repositório são de propriedade do Prof. Dr. Clever Ricardo Guareis de Farias e as implementações são completamente de minha autoria, exceto quando disposto o contrário.
