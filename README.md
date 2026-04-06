@@ -33,4 +33,4 @@ Diretórios marcados com o prefixo `EXERCISE-{ExerciseNumber}` contêm arquivos 
 Por fim, arquivos marcados com o prefixo `OPTIONAL` são leituras opcionais em markdown, mas recomendadas, incluindo discussões que não são diretamente relacionadas aos exercícios, mas que podem ser úteis para o desenvolvimento de habilidades de programação e resolução de problemas.
 
 # Créditos
-As listas de exercícios utilizadas neste repositório são de propriedade do Prof. Dr. Clever Ricardo Guareis de Farias e as implementações são completamente de minha autoria, exceto quando disposto o contrário.
+As listas de exercícios utilizadas neste repositório são de propriedade do Prof. Dr. Clever Ricardo Guareis de Farias e as soluções são de minha autoria, exceto quando disposto o contrário.
